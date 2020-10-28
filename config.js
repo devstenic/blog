@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Devstenic',
     photo: '/devstenic-logo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Elo jestem Mati XD',
     contacts: {
       email: '',
       facebook: '#',
