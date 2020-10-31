@@ -3,8 +3,8 @@ template: post
 title: "Prosty komunikator z użyciem Flutter i Firebase #2"
 slug: '"komunikator-flutter-firebase"'
 draft: false
-date: "2020-10-31T16:44:32.137Z"
-description: "Komunikator z użyciem Flutter i Firebase"
+date: 2020-04-30T15:44:32.137Z
+description: Komunikator z użyciem Flutter i Firebase
 category: development
 tags:
   - "#flutter"
