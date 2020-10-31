@@ -1,15 +1,11 @@
 ---
 template: post
 title: "Prosty komunikator z użyciem Flutter i Firebase #1"
-<<<<<<< HEAD
 slug: "prosty-komunikator-z-użyciem-flutter-i-Firebase-1"
 draft: false
 date: "2020-10-28T20:40:31.840Z"
-=======
-slug: "Prosty komunikator z użyciem Flutter i Firebase #1"
-draft: false
-date: 2020-10-28T20:40:31.840Z
->>>>>>> c3e4f83134cd3b5d7042470b4d71ef53863be494
+
+
 description: "Prosty komunikator z użyciem Flutter i Firebase #1"
 category: development
 tags:
