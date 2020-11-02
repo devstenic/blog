@@ -4,8 +4,6 @@ title: "Prosty komunikator z użyciem Flutter i Firebase #1"
 slug: "prosty-komunikator-z-użyciem-flutter-i-Firebase-1"
 draft: false
 date: "2020-04-20T20:40:31.840Z"
-
-
 description: "Prosty komunikator z użyciem Flutter i Firebase #1"
 category: development
 tags:
