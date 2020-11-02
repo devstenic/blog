@@ -194,7 +194,7 @@ module.exports = {
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
     {
-      resolve: 'gatsby-plugin-sass@next',
+      resolve: 'gatsby-plugin-sass',
       options: {
         postCssPlugins: [...postCssPlugins],
         cssLoaderOptions: {
