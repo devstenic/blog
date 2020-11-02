@@ -2,7 +2,6 @@
 
 const siteConfig = require('./config.js');
 const postCssPlugins = require('./postcss-config.js');
-const globImporter = require('node-sass-glob-importer');
 
 module.exports = {
   pathPrefix: siteConfig.pathPrefix,
@@ -195,9 +194,8 @@ module.exports = {
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
     {
-      resolve: 'gatsby-plugin-sass',
+      resolve: 'gatsby-plugin-sass@next',
       options: {
-        importer: globImporter(),
         postCssPlugins: [...postCssPlugins],
         cssLoaderOptions: {
           camelCase: false,
