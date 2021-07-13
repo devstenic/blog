@@ -1,8 +1,7 @@
 ---
 template: post
 title: Czym jest Dart Null Safety?
-slug: Sound Null Safety jest jednym z największych i najnowszych dodatków do
-  języka Dart. Czym jest i w czym Ci może pomóc?
+slug: Sound-Null-Safety
 draft: true
 date: 2021-07-13T13:41:51.672Z
 description: Sound Null Safety jest jednym z największych i najnowszych dodatków
