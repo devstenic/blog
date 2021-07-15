@@ -36,7 +36,7 @@ module.exports = {
       github: '#https://github.com/HWFBL',
       rss: '',
       vkontakte: '',
-      linkedin: '#https://www.linkedin.com/in/mateusz-rus-782b3b181',
+      linkedin: '#mateusz-rus-782b3b181',
       instagram: '#',
       line: '',
       gitlab: '',
